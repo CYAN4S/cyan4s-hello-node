@@ -1,0 +1,15 @@
+{
+  "name": "cyan4s-hello-node",
+  "version": "0.0.1",
+  "description": "Node.js Practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CYAN4S",
+  "license": "ISC",
+  "engines": {
+    "node": "12.x"
+  }
+}
