@@ -11,5 +11,9 @@
   "license": "ISC",
   "engines": {
     "node": "12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CYAN4S/cyan4s-hello-node.git"
   }
 }
